@@ -1,6 +1,8 @@
 # FinanceFlow - README
 <img width="1344" height="594" alt="image" src="https://github.com/user-attachments/assets/1b815064-aaa8-4eae-9230-6fb391cb7727" />
-# Overview
+
+---
+
 FinanceFlow is a modern financial platform designed to help users track their daily and monthly income and expenses. 
 
 ---
