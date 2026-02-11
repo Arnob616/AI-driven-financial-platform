@@ -1,20 +1,16 @@
 # FinanceFlow - README
-![Screenshot 2025-03-24 180946](https://github.com/user-attachments/assets/20ec7c2e-2dc8-43e5-b67e-7d0dab4731bd)
+<img width="1344" height="594" alt="image" src="https://github.com/user-attachments/assets/1b815064-aaa8-4eae-9230-6fb391cb7727" />
 ## Overview
 
-**FinanceFlow** is a modern, AI-powered financial platform designed to help users track their daily and monthly income and expenses. With features like receipt scanning, recurring transaction management, email alerts, and detailed financial health reports powered by smart charts, FinanceFlow simplifies personal finance management. It offers both short-term and long-term insights into your financial situation, making it easier to make informed decisions.
+**FinanceFlow** is a modern financial platform designed to help users track their daily and monthly income and expenses. 
 
 ---
 
 ## Features
 
-- **Income and Expense Tracking**: Effortlessly track daily and monthly income and expenses.
-- **Receipt Scanning**: Use AI-powered receipt scanning to automatically capture transaction details.
-- **Recurring Transactions**: Automate and manage recurring payments and incomes.
-- **Email Alerts**: Get notified about important financial updates, recurring payments, or monthly spending.
-- **Financial Health Reports**: Generate both short- and long-term financial health reports, powered by AI insights.
-- **Smart Charts**: Visualize your financial data with interactive, intelligent charts.
-- **Monthly Reports**: Receive AI-powered monthly summaries of your financial activity.
+- **Developed a finance management application for tracking income and expenses over time.
+- **Implemented secure authentication and full CRUD operations for financial transactions.
+- **Designed an interactive dashboard featuring visual charts and exportable PDF reports.
 
 ---
 
@@ -23,7 +19,6 @@
 - **JavaScript**: Core language for both frontend and backend development.
 - **Next.js**: React-based framework for building the frontend, offering server-side rendering and static site generation for optimal performance.
 - **Supabase**: Open-source backend-as-a-service platform providing authentication, real-time databases, and storage.
-- **Prisma**: Type-safe ORM (Object-Relational Mapping) tool for interacting with the database, offering smooth query handling and migrations.
 - **ShadCN**: UI component library for modern, responsive, and customizable design.
 - **TailwindCSS**: Utility-first CSS framework for building responsive and highly customizable UI components.
 
